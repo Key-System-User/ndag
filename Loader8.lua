@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Key-System-User/ndag/refs/heads/main/MainKey.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Key-System-User/ndag/refs/heads/main/MainsKey.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Key-System-User/ndag/refs/heads/main/SpeedXZ.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Key-System-User/ndag/refs/heads/main/SpeedY.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Key-System-User/ndag/refs/heads/main/COM.lua"))()
