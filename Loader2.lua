@@ -1,0 +1,7 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Key-System-User/ndag/refs/heads/main/KeyStrokes2.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Key-System-User/ndag/refs/heads/main/SpeedXZ.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Key-System-User/ndag/refs/heads/main/SpeedY.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Key-System-User/ndag/refs/heads/main/QuickMenu.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Key-System-User/ndag/refs/heads/main/COM.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Key-System-User/ndag/refs/heads/main/Fling.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Key-System-User/ndag/refs/heads/main/Speed.lua"))()
