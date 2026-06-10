@@ -682,20 +682,21 @@ local function C_f()
 		v4 = true
 	end)
 
-	-- Q tuşu
-	UserInputService.InputBegan:Connect(function(p1,p2)
-		if p2 then
-			return
-		end
+--[[
+UserInputService.InputBegan:Connect(function(p1,p2)
+	if p2 then
+		return
+	end
 
-		if script.Parent.Parent.Parent.Visible ~= true then
-			return
-		end
+	if script.Parent.Parent.Parent.Visible ~= true then
+		return
+	end
 
-		if p1.KeyCode == Enum.KeyCode.Q then
-			v4 = true
-		end
-	end)
+	if p1.KeyCode == Enum.KeyCode.Q then
+		v4 = true
+	end
+end)
+]]
 
 	TextBox.FocusLost:Connect(function()
 		if tonumber(TextBox.Text) then
